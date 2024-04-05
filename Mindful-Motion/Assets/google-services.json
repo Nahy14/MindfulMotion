@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934542348135",
+    "project_id": "mindful-motion",
+    "storage_bucket": "mindful-motion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934542348135:android:cc2928c3ae53767af2a9c2",
+        "android_client_info": {
+          "package_name": "com.MindfulMotion.firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QUT_zjdEN8pmWOo1MlecXo1-_-NtOZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
